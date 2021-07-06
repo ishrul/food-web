@@ -1,0 +1,97 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.first-sec{
+    display: flex;
+    width: 80%;
+    margin-left: 70px;
+    margin-top: 75px;
+}
+
+.first-sec img{
+    width: 1000%;
+    height: auto;
+    margin-top: 2em;
+    
+}
+p{
+    color: gray;
+    
+    text-align: justify;
+}
+.sub-div-one img{
+   margin-left: -50%;
+    width: 500px;
+    margin-top: -80px;
+}
+.div-one h1{
+   font-size: 50px;
+   padding-right: 2em;
+   width: 50%;
+   color: #696969;
+   margin-right: 600px;
+}
+span{
+    color: orange;
+}
+button{
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 20px 50px;
+    border-radius: 35px;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.sub-div{
+    padding-left: 30%;
+    padding-top: 100px;
+    font-size: 20px;
+}
+.sub-div p{
+    padding-right: 50px;
+}
+.sec-bg{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 60px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.sec-bg img{
+    width: 100%;
+}
+.third-div img{
+    width: 250px;
+    height: 200px;
+}
+.third-div div{
+    margin-left: 40px;
+    text-align: center;
+    width: 250px;
+    height: auto;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.third-div{
+    margin-left: 10%;
+   
+}
+.third-sec{
+    margin-bottom: 200px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+footer h3{
+    color: gray;
+}
+
+
+
