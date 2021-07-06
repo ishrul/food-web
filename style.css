@@ -1,6 +1,25 @@
 body{
     font-family: 'Noto Sans JP', sans-serif;
 }
+.header{
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 400px;
+}
+.header li{
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.header li a{
+    color: white;
+}
+
 .first-sec{
     display: flex;
     width: 80%;
@@ -23,6 +42,10 @@ p{
    margin-left: -50%;
     width: 500px;
     margin-top: -80px;
+}
+.sec-img{
+    width: 2000px;
+    padding-top: 50px;
 }
 .div-one h1{
    font-size: 50px;
@@ -91,6 +114,15 @@ footer{
 }
 footer h3{
     color: gray;
+}
+.section-third{
+    display: flex;
+    background-color: darkgray;
+}
+.section-third div{
+    width: 50%;
+    margin-left: 60px;
+    font-size: 1.5em;
 }
 
 
